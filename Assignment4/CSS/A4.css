@@ -1,0 +1,232 @@
+h1 {
+  margin-right: -0.625rem;
+  margin-left: -0.625rem;
+  margin-top: -0.75rem;
+  text-align: center;
+  background-color: black;
+  color: rgb(128, 102, 160);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+td
+{
+  font-family: 'Roboto', sans-serif, Courier;
+  font-size: 15pt;
+}
+@media only screen and (max-width: 880px) {
+
+  td {
+    font-size: 7pt;
+  }
+}
+th
+{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16pt;
+}
+@media only screen and (max-width: 880px) {
+
+  th {
+    font-size: 7pt;
+  }
+}
+.title{
+  cursor: pointer;
+}
+
+body {
+  background-color: black;
+}
+
+.logo
+{
+  width: 35px;
+  height: 25px;
+}
+/**serach bar**/
+.search-container
+{
+  text-align: center;
+  background-color: #F0F0F0;
+  margin-right: -0.625rem;
+  margin-left: -0.625rem;
+  margin-top: -1.25rem;
+  box-shadow: 0px 0px 4px 4PX #F0F0F0;
+  padding-top: 15px;
+  padding-bottom: 1px;
+}
+.test
+{
+  max-width: 150px;
+}
+
+/**input style**/
+.inputStyle{
+  
+  font-size: 13px;
+  border-radius: 4px;
+  line-height: 1.5;
+  padding: 5px 10px;
+  transition: box-shadow 100ms ease-in, border 100ms ease-in, background-color 100ms ease-in;
+  border: 2px solid #dee1e2;
+  color: rgb(128, 102, 160);
+  background: #dee1e2;
+  height: 30px;
+ 
+  
+}
+.inputStyle:hover {
+      border-color: rgb(128, 102, 160);
+  }
+  .inputStyle:focus{
+      border-color: rgb(128, 102, 160);
+      background: #fff;
+  }
+  .background {
+    background-color: rgb(255, 255, 255, 0.9);
+    width: 75% !important;
+    margin: auto;text-align: center;
+    margin-top: -7rem;
+    box-shadow: 0px 0px 4px 4PX #F0F0F0;
+  }
+
+  .container{
+    width:1000px;
+  }
+
+  .id
+  {
+max-width: 200px;
+  }
+
+  /**css for table**/
+  .table 
+  {
+    cursor: pointer;
+    text-align: center !important;
+  }
+  table{
+    cursor: pointer;
+  }
+  .myTable
+  {
+    text-align: center !important;
+    margin: auto;
+  }
+  /**css for background**/
+  .backgroundImage{
+    background-image: url(./background.png);
+    background-position: 10%;
+    background-size: cover;
+    height: 160px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+  }
+  /**css for image**/
+  .imageStyle
+  {
+    max-width: 150px;
+  }
+  @media only screen and (max-width: 880px) {
+
+    .imageStyle {
+      max-width: 50px;
+    }
+  }
+  /**CSS for tr**/
+  /* Table Head */
+  table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-left: 0 !important;
+    border-right: 0;
+    padding: 5px 10px;
+}
+@media only screen and (max-width: 880px) {
+  table, td, th {
+    border: 1px solid black;
+    border-left: 0 !important;
+    border-right: 0;
+    padding: 0px 0px;
+}
+}
+th{
+background-color: rgb(128, 102, 160);
+color: #fff;
+border-bottom-width: 0;
+border-bottom: 0;
+}
+
+  #table1:hover::before
+  {
+  box-shadow: 0 0 15px #ffee10;
+  } 
+  #table1:hover{
+    color: #ffee10;
+  box-shadow: 0 0 5px #ffee10;
+  text-shadow: 0 0 5px #ffee10;
+    }
+    #table3:hover::before
+    {
+    box-shadow: 0 0 15px #ffee10;
+    } 
+    #table3:hover{
+      color: #ffee10;
+    box-shadow: 0 0 5px #ffee10;
+    text-shadow: 0 0 5px #ffee10;
+      }
+      #table4:hover::before
+      {
+      box-shadow: 0 0 15px #ffee10;
+      } 
+      #table4:hover{
+        color: #ffee10;
+      box-shadow: 0 0 5px #ffee10;
+      text-shadow: 0 0 5px #ffee10;
+        }
+        #table5:hover::before
+        {
+        box-shadow: 0 0 15px #ffee10;
+        } 
+        #table5:hover{
+          color: #ffee10;
+        box-shadow: 0 0 5px #ffee10;
+        text-shadow: 0 0 5px #ffee10;
+          }
+          #table6:hover::before
+          {
+          box-shadow: 0 0 15px #ffee10;
+          } 
+          #table6:hover{
+            color: #ffee10;
+          box-shadow: 0 0 5px #ffee10;
+          text-shadow: 0 0 5px #ffee10;
+            }
+ 
+            .catalogStyle:hover
+            {
+             background-color: rgb(255, 238, 16, 0.1);
+            }
+
+            a:hover
+            {
+              background-color: #ffee10;
+            }
+
+            /**css for item**/
+            .itemBody{
+              text-align: center;
+              background-color: rgba(240, 240, 240, 0.9);
+              margin-right: auto;
+              margin-left: auto;
+              margin-top: -7.3rem;
+              box-shadow: 0px 0px 4px 4PX #F0F0F0;
+              padding-top: 15px;
+              padding-bottom: 1px;
+              width: 70%;
+            }

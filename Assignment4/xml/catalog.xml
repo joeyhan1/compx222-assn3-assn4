@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<catalogs>
+    <catalog>
+        <!--Movie id-->
+        <id>1</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/morbius.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Morbius</title>
+        <!-- Length of movie-->
+        <length>1h 44m</length>
+        <!-- Director of movie-->
+        <director>Daniel Espinosa</director>
+        <!-- Rating of movie-->
+        <rating>5.2/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>2</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/eternals.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Eternals</title>
+        <!-- Length of movie-->
+        <length>2h 36m</length>
+        <!-- Director of movie-->
+        <director>Chloe Zhao</director>
+        <!-- Rating of movie-->
+        <rating>6.3/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>3</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/thorloveandthunder.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Thor: Love and Thunder</title>
+        <!-- Length of movie-->
+        <length>1h 58m</length>
+        <!-- Director of movie-->
+        <director>Taika Waititi</director>
+        <!-- Rating of movie-->
+        <rating>6.4/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>4</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/doctorstrangemultiverse.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Doctor Strange in the Multiverse of Madness</title>
+        <!-- Length of movie-->
+        <length>2h 6m</length>
+        <!-- Director of movie-->
+        <director>Sam Raimi</director>
+        <!-- Rating of movie-->
+        <rating>7.0/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>5</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/ghostbustersafterlife.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Ghostbusters: Afterlife</title>
+        <!-- Length of movie-->
+        <length>2h 4m</length>
+        <!-- Director of movie-->
+        <director>Jason Reitman</director>
+        <!-- Rating of movie-->
+        <rating>7.1/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>6</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/shangchi.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Shang-Chi and the Legend of the Ten Rings</title>
+        <!-- Length of movie-->
+        <length>2h 12m</length>
+        <!-- Director of movie-->
+        <director>Destin Daniel Cretton</director>
+        <!-- Rating of movie-->
+        <rating>7.4/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>7</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/spidermanhomecoming.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Spider-Man: Homecoming</title>
+        <!-- Length of movie-->
+        <length>2h 13m</length>
+        <!-- Director of movie-->
+        <director>Jon Watts</director>
+        <!-- Rating of movie-->
+        <rating>7.4/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>8</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/spidermannowayhome.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Spider-Man: No Way Home</title>
+        <!-- Length of movie-->
+        <length>2h 28m</length>
+        <!-- Director of movie-->
+        <director>Jon Watts</director>
+        <!-- Rating of movie-->
+        <rating>8.3/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>9</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/missperegrine.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Miss Peregrine's Home for Peculiar Children</title>
+        <!-- Length of movie-->
+        <length>2h 7m</length>
+        <!-- Director of movie-->
+        <director>Tim Burton</director>
+        <!-- Rating of movie-->
+        <rating>6.7/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>When Jacob (Asa Butterfield) discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>10</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/thesuicidesquad.jpg</screenshot>
+        <!-- Movie title-->
+        <title>The Suicide Squad</title>
+        <!-- Length of movie-->
+        <length>2h 12m</length>
+        <!-- Director of movie-->
+        <director>James Gunn</director>
+        <!-- Rating of movie-->
+        <rating>7.2/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>11</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/aquaman.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Aquaman</title>
+        <!-- Length of movie-->
+        <length>2h 23m</length>
+        <!-- Director of movie-->
+        <director>James Wan</director>
+        <!-- Rating of movie-->
+        <rating>6.8/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>12</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/thenun.jpg</screenshot>
+        <!-- Movie title-->
+        <title>The Nun</title>
+        <!-- Length of movie-->
+        <length>1h 36m</length>
+        <!-- Director of movie-->
+        <director>Corin Hardy</director>
+        <!-- Rating of movie-->
+        <rating>5.3/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>13</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/aladdin.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Aladdin</title>
+        <!-- Length of movie-->
+        <length>2h 8m</length>
+        <!-- Director of movie-->
+        <director>Guy Ritchie</director>
+        <!-- Rating of movie-->
+        <rating>6.9/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>14</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/deadpool2.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Deadpool 2</title>
+        <!-- Length of movie-->
+        <length>1h 59m</length>
+        <!-- Director of movie-->
+        <director>David Leitch</director>
+        <!-- Rating of movie-->
+        <rating>7.7/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>15</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/avengersendgame.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Avengers: Endgame</title>
+        <!-- Length of movie-->
+        <length>3h 1m</length>
+        <!-- Director of movie-->
+        <director>Anthony Russo and Joe Russo</director>
+        <!-- Rating of movie-->
+        <rating>8.4/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>16</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/wonderwoman.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Wonder Woman</title>
+        <!-- Length of movie-->
+        <length>2h 21m</length>
+        <!-- Director of movie-->
+        <director>Patty Jenkins</director>
+        <!-- Rating of movie-->
+        <rating>7.4/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>17</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/captainmarvel.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Captain Marvel</title>
+        <!-- Length of movie-->
+        <length>2h 3m</length>
+        <!-- Director of movie-->
+        <director>Anna Boden and Ryan Fleck</director>
+        <!-- Rating of movie-->
+        <rating>6.8/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>18</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/thorragnarok.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Thor: Ragnarok</title>
+        <!-- Length of movie-->
+        <length>2h 10m</length>
+        <!-- Director of movie-->
+        <director>Taika Waititi</director>
+        <!-- Rating of movie-->
+        <rating>7.9/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>19</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/fantasticbeasts3.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Fantastic Beasts: The Secrets of Dumbledore</title>
+        <!-- Length of movie-->
+        <length>2h 22m</length>
+        <!-- Director of movie-->
+        <director>David Yates</director>
+        <!-- Rating of movie-->
+        <rating>6.2/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</description>
+    </catalog>
+    <catalog>
+        <!--Movie id-->
+        <id>20</id>
+        <!--Screenshot link eg ../images/movie1.png-->
+        <screenshot>../images/maleficent.jpg</screenshot>
+        <!-- Movie title-->
+        <title>Maleficent</title>
+        <!-- Length of movie-->
+        <length>1h 37m</length>
+        <!-- Director of movie-->
+        <director>Robert Stromberg</director>
+        <!-- Rating of movie-->
+        <rating>6.9/10</rating>
+        <!-- Description/Synopsis of movie-->
+        <description>A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.</description>
+    </catalog>
+</catalogs>

@@ -1,0 +1,70 @@
+html {
+    background-image: linear-gradient(to right,#ddd6f3, #faaca8);
+    line-height: 1.6;
+    padding-bottom: 80px;
+}
+
+div#patientInfo {
+    vertical-align: top;
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 4px;
+    width: 300px;
+    height: auto;
+    border-color: black;
+    background-image: linear-gradient(to right,#eecda3, #ef629f);
+}
+
+h1#resultH1, h1#sofaH1 {
+    text-align: center;
+}
+
+h1#resultH1 {
+    padding-top: 80px;
+}
+
+form#resultForm, form#sofaForm {
+    text-align: center;
+    border-style: solid;
+    border-width: 4px;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-color: black;
+    background-image: linear-gradient(to right,#eecda3, #ef629f);
+}
+
+label {
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    width: 360px;
+}
+
+input {
+    width: 350px;
+    display: inline-block;
+    background-image: linear-gradient(to right,#ddd6f3, #faaca8);
+    font-size: 16px;
+}
+
+select {
+    width: 350px;
+    display: inline-block;
+    background-image: linear-gradient(to right,#ddd6f3, #faaca8);
+    font-size: 16px;    
+}
+
+button {
+    text-align: center;
+    background-image: linear-gradient(to right,#ddd6f3, #faaca8);
+    font-size: 14px;
+}
+
+div#button {
+    padding-left: 75px;
+}
